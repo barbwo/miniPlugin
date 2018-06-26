@@ -1,0 +1,6 @@
+.fav_posts_select {
+	display: flex;
+}
+.fav_posts_select select {
+	width: 100%;
+}	
